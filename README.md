@@ -17,5 +17,5 @@ mostrar_palabra(): Esta función muestra la palabra secreta al jugador, con guio
 adivinar_letra(): Esta función permite al jugador adivinar una letra y comprueba si la letra está en la palabra secreta.
 ## Conclucion
 Crear un juego de ahorcado en Python es un proyecto estimulante y entretenido que permite a los novatos en programación adquirir conocimientos fundamentales de Python. A pesar de la simplicidad del juego, proporciona una excelente introducción a las estructuras de control, la manipulación de datos de entrada y salida, y la organización del código en funciones.
-## Autores Nuestro equipo está conformado por los siguientes estudiantes: Laura Perilla - lperillat@unal.edu.co , Matilde albarracin - malbarracin@unal.edu.co , Juan garcia - jgarciamen@unal.edu.co , Junior arrieta - jarrietat@unal.edu.co 
+### Autores Nuestro equipo está conformado por los siguientes estudiantes: Laura Perilla - lperillat@unal.edu.co , Matilde albarracin - malbarracin@unal.edu.co , Juan garcia - jgarciamen@unal.edu.co , Junior arrieta - jarrietat@unal.edu.co 
 
