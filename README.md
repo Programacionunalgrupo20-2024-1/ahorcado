@@ -9,3 +9,9 @@ Entender cómo funcionan las estructuras de control en Python, como los bucles y
 ###Concepto basico de que va el juego
 Para comenzar el juego, se muestra una secuencia de guiones bajos para que el jugador identifique la palabra oculta. Seleccionando las letras una a una, el jugador deberá adivinar la palabra. El juego ha terminado. El jugador puede identificar correctamente la letra de la palabra adivinando. Si el jugador adivina una letra que no está incluida en la palabra, perderá el intento. El juego persiste hasta que el jugador puede adivinar la palabra completa o nada más.
 ### Un concepto del diseño del codigo del juego.
+Diseño del Código
+El código para el juego de ahorcado se divide en varias funciones, cada una de las cuales realiza una tarea específica. Esto hace que el código sea más fácil de leer y mantener.
+
+jugar_ahorcado(): Esta es la función principal que controla el flujo del juego.
+mostrar_palabra(): Esta función muestra la palabra secreta al jugador, con guiones bajos en lugar de las letras que aún no se han adivinado.
+adivinar_letra(): Esta función permite al jugador adivinar una letra y comprueba si la letra está en la palabra secreta.
